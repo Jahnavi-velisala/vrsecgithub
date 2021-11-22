@@ -14,9 +14,9 @@ This repository contains git and github files.
 
 ***both bold and italic types of font styles***
 
-[Google](http://www.google.com)
+[GOOGLE](http://www.google.com)
 
-![hardik](https://lh3.googleusercontent.com/evg8hy1Eb3ny8mjLscfthIS_OFV84moiQmRe8R03xCVkXCDGPpmBSVSDaAwk4FJAcX9_)
+![HARDIK](https://lh3.googleusercontent.com/evg8hy1Eb3ny8mjLscfthIS_OFV84moiQmRe8R03xCVkXCDGPpmBSVSDaAwk4FJAcX9_)
 
 * Friuts
   * Apples
