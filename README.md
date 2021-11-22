@@ -27,3 +27,7 @@ This repository contains git and github files.
     1. Potato
     2. Tomato
     3. Onions
+
+Table 1 | Table 2
+---------|--------------
+NAME|ROLL NO
