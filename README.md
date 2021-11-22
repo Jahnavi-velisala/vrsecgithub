@@ -14,4 +14,4 @@ This repository contains git and github files.
 
 ***both bold and italic types of font styles***
 
-[google](http://www.google.com)
+[Google](http://www.google.com)
