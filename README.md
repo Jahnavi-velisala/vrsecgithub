@@ -16,4 +16,4 @@ This repository contains git and github files.
 
 [Google](http://www.google.com)
 
-![hardik](https://yespunjab.com/wp-content/uploads/2019/10/Hardik-Pandya.jpg)
+![hardik](https://lh3.googleusercontent.com/evg8hy1Eb3ny8mjLscfthIS_OFV84moiQmRe8R03xCVkXCDGPpmBSVSDaAwk4FJAcX9_)
