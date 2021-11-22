@@ -29,7 +29,5 @@ This repository contains git and github files.
     3. Onions
 
 Table 1 | Table 2
----------|--------------
+---------|---------
 NAME|ROLL NO
-
-
